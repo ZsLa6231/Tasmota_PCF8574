@@ -8,3 +8,5 @@
 #define USE_PCF8574_MQTTINPUT
 
 #endif
+
+// PCF8574 enabled
